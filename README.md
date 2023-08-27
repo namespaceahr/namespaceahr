@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m Ahmed Rifat<br>- 👀 I’m interested in  programming, data science and ML.<br>- 🌱 I’m currently focusing ... ML<br>- 💞️ I’m looking to collaborate on ... Open source projects<br>- 📫 How to reach me ... email: habibullahrifat@outlook.com</p>
+<p align="left">- 👋 Hi, I’m Ahmed Rifat<br>- 👀 I’m interested in CaaS, data science and ML.<br>- 🌱 I’m currently focusing ... Java & Golang coding<br>- 💞️ I’m looking to collaborate on ... Open source projects<br>- 📫 How to reach me ... email: habibullahrifat@outlook.com</p>
 
 ###
 
